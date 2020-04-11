@@ -1,0 +1,101 @@
+body{
+    margin:0;
+    position: relative;
+  
+}
+@media screen and (min-width: 768px){
+
+    .plaisir{
+        height: 4em;
+   
+    }
+    .imageH{
+        display: block;
+        height: 4em;
+        width: 5%;
+        margin: -4px 0 0px 1em;
+      
+    }
+    .jouer{
+        color: #fff;
+        margin: 0 0  0px 5%;
+        float: left;
+    }
+    .position{
+        position: relative;
+        margin:auto;
+       width: 35%;
+       top:5em;
+       
+    }
+    .loginform{
+        display: block;
+        background-color: rgb(57, 175, 243);
+        height: 4em;
+        line-height: 4em;
+    }
+    .login{
+        color: #fff;
+        display: inline;
+        margin: 0 0em  0px 1.5em;
+    }
+    .close{
+        color: #fff;
+        float:right;
+        margin: 0 1.5em  0 0em;
+    }
+    div.formulaire{
+        background: #fff;
+         padding: .001em 0px 0px 1em;
+    }
+    form{
+       
+        position: relative;
+        width: 100%;
+        height: 15em;
+        border-bottom-right-radius:5px;
+        border-bottom-left-radius:5px;
+    }
+    .div2{
+        margin: 1.5em 0px 0px 1em;
+        border:1px solid rgb(242, 242, 242);
+        height: 55px;
+        width:26em;
+        border-radius:5px;
+        text-indent: 20px;
+    }
+    .inputF{
+        border:none;
+        height: 50px;
+        width:25em;
+        
+    }
+    .div3{
+        margin: 1.5em 0px 0px 1em;
+        height: 55px;
+        width:26em;
+        border-radius:5px;
+        text-indent: 20px;
+    }
+    .inputS{
+        display: block;
+        border:1px solid grey;
+        height: 45px;
+        width:7em;
+        border-radius:5px;
+        background-color: rgb(57, 175, 243);
+        color:#fff;
+        font-size:16px;
+        float: left;
+    }
+    .inscrire a{
+        color:grey;
+        text-decoration: none;
+        line-height: 50px;
+        margin-left: 2em;
+    }
+    
+}   
+    
+    
+ 
